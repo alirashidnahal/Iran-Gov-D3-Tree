@@ -1,0 +1,353 @@
+{
+  "name": "رهبری",
+  "description": "رهبر جمهوری اسلامی ایران، عالی‌ترین مقام کشور",
+  "category": "نهاد حکومتی یا حاکمیتی",
+  "image": "http://localhost/iranchart.dev/example.png",
+  "link": "https://www.leader.ir",
+  "color": "#FF0000",
+  "children": [
+    {
+      "name": "قوه مجریه",
+      "description": "رئیس قوه مجریه و منتخب مردم",
+      "category": "نهاد حکومتی یا حاکمیتی",
+      "link": "https://www.president.ir",
+      "color": "#FF0000",
+      "children": [
+        {
+          "name": "هیئت دولت",
+          "description": "متشکل از وزرا و معاونان رئیس‌جمهور",
+          "category": "نهاد حکومتی یا حاکمیتی",
+          "link": "",
+          "color": "#FF0000",
+          "children": [
+            {
+              "name": "وزارت کشور",
+              "description": "مسئول امنیت داخلی و امور استانداری‌ها",
+              "category": "وزارت‌خانه",
+              "link": "https://www.moi.ir",
+              "color": "#0000FF"
+            },
+            {
+              "name": "وزارت آموزش و پرورش",
+              "description": "متولی آموزش عمومی کشور",
+              "category": "وزارت‌خانه",
+              "link": "https://medu.gov.ir",
+              "color": "#0000FF",
+              "children": [
+                {
+                  "name": "باشگاه دانش\u200Cپژوهان جوان",
+                  "description": "برگزاری المپیادهای علمی ایران",
+                  "category": "مؤسسه دولتی",
+                  "link": "https://ysc.medu.gov.ir/",
+                  "color": ""
+                }
+              ]
+            },
+            {
+              "name": "وزارت ارتباطات و فناوری اطلاعات",
+              "description": "",
+              "category": "وزارت‌خانه",
+              "link": "https://www.ict.gov.ir",
+              "color": "#0000FF"
+            },
+            {
+              "name": "وزارت اطلاعات",
+              "description": "",
+              "category": "وزارت‌خانه",
+              "link": "https://www.vaja.ir",
+              "color": "#0000FF"
+            },
+            {
+              "name": "وزارت امور اقتصادی و دارایی",
+              "description": "",
+              "category": "وزارت‌خانه",
+              "link": "https://mefa.ir",
+              "color": "#0000FF",
+              "children": [
+                {
+                  "name": "بیمه مرکزی جمهوری اسلامی ایران",
+                  "description": "بیمه مرکزی با هدف تنظیم، تعمیم و هدایت امر بیمه در ایران و حمایت از بیمه\u200Cگذاران، بیمه\u200Cشدگان و صاحبان حقوق آنها و اعمال نظارت دولت بر فعالیت\u200Cهای بیمه\u200Cای تأسیس شده\u200Cاست",
+                  "category": "",
+                  "link": "https://centinsur.ir/",
+                  "color": ""
+                }
+              ]
+            },
+            {
+              "name": "وزارت امور خارجه",
+              "description": "مدیریت روابط دیپلماتیک",
+              "category": "وزارت‌خانه",
+              "link": "https://mfa.gov.ir",
+              "color": "#0000FF"
+            },
+            {
+              "name": "وزارت بهداشت، درمان و آموزش پزشکی",
+              "description": "نظام سلامت و بهداشت عمومی",
+              "category": "وزارت‌خانه",
+              "link": "https://behdasht.gov.ir",
+              "color": "#0000FF",
+              "children": [
+                {
+                  "name": "انستیتو پاستور ایران",
+                  "description": "",
+                  "category": "مؤسسه دولتی",
+                  "link": "https://pasteur.ac.ir",
+                  "color": ""
+                }
+              ]
+            },
+            {
+              "name": "وزارت تعاون، کار و رفاه اجتماعی",
+              "description": "",
+              "category": "وزارت‌خانه",
+              "link": "https://www.mcls.gov.ir",
+              "color": "#0000FF"
+            },
+            {
+              "name": "وزارت جهاد کشاورزی",
+              "description": "",
+              "category": "وزارت‌خانه",
+              "link": "https://maj.ir",
+              "color": "#0000FF"
+            },
+            {
+              "name": "وزارت دادگستری",
+              "description": "",
+              "category": "وزارت‌خانه",
+              "link": "https://www.moj.gov.ir",
+              "color": "#0000FF"
+            },
+            {
+              "name": "وزارت دفاع و پشتیبانی نیروهای مسلح",
+              "description": "سیاست گذاری دفاعی و نظامی",
+              "category": "وزارت‌خانه",
+              "link": "https://defanews.ir",
+              "color": "#0000FF",
+              "children": [
+                {
+                  "name": "نیاد تعاون وزارت دفاع و پشتیبانی نیروهای مسلح",
+                  "description": "تأمین وام و مسکن، همچنین ساخت املاک و مستغلات برای کارکنان وزارت دفاع",
+                  "category": "مؤسسه دولتی",
+                  "link": "",
+                  "color": "#008000"
+                }
+              ]
+            },
+            {
+              "name": "وزارت راه و شهرسازی",
+              "description": "",
+              "category": "وزارت‌خانه",
+              "link": "https://www.mrud.ir",
+              "color": "#0000FF",
+              "children": [
+                {
+                  "name": "بنیاد مسکن انقلاب اسلامی",
+                  "description": " ارائه طرح\u200Cهای مورد نیاز برای ایجاد مسکن اقشار مستضعف، انجام پروژه\u200Cهای کارشناسی دربارهٔ زمین\u200Cهای روستایی و کمک در جهت تأمین مصالح ساختمانی می\u200Cباشد",
+                  "category": "مؤسسه دولتی",
+                  "link": "https://bme.ir",
+                  "color": ""
+                }
+              ]
+            },
+            {
+              "name": "وزارت صنعت، معدن و تجارت",
+              "description": "",
+              "category": "وزارت‌خانه",
+              "link": "https://mimt.gov.ir",
+              "color": "#0000FF"
+            },
+            {
+              "name": "وزارت علوم، تحقیقات و فناوری",
+              "description": "",
+              "category": "وزارت‌خانه",
+              "link": "https://www.msrt.ir",
+              "color": "#0000FF"
+            },{
+              "name": "وزارت فرهنگ و ارشاد اسلامی",
+              "description": "",
+              "category": "وزارت‌خانه",
+              "link": "https://farhang.gov.ir",
+              "color": "#0000FF",
+              "children": [
+                {
+                  "name": "انجمن آثار و مفاخر فرهنگی",
+                  "description": "",
+                  "category": "مؤسسه غیرتجاری غیرانتفاعی غیردولتی",
+                  "link": "https://anjom.ir",
+                  "color": "#0000FF"
+                },
+                {
+                  "name": "بنیاد ملی بازی\u200Cهای رایانه\u200Cای",
+                  "description": "نهاد متولی بازی\u200Cهای رایانه\u200Cای و ویدئویی در ایران است",
+                  "category": "نهاد عمومی غیردولتی",
+                  "link": "https://ircg.ir/",
+                  "color": "#0000FF"
+                }
+              ]
+            },
+            {
+              "name": "وزارت میراث فرهنگی، گردشگری و صنایع دستی",
+              "description": "",
+              "category": "وزارت‌خانه",
+              "link": "https://www.mcth.ir",
+              "color": "#0000FF"
+            },
+            {
+              "name": "وزارت نفت",
+              "description": "",
+              "category": "وزارت‌خانه",
+              "link": "https://www.mop.ir",
+              "color": "#0000FF"
+            },
+            {
+              "name": "وزارت نیرو",
+              "description": "",
+              "category": "وزارت‌خانه",
+              "link": "https://moe.gov.ir",
+              "color": "#0000FF"
+            },
+            {
+              "name": "وزارت ورزش و جوانان",
+              "description": "",
+              "category": "وزارت‌خانه",
+              "link": "https://msy.gov.ir",
+              "color": "#0000FF"
+            }
+          ]
+        },
+        {
+          "name": "نهاد ریاست\u200Cجمهوری ایران",
+          "description": "",
+          "category": "مؤسسه دولتی",
+          "link": "https://www.president.ir/fa/nahad",
+          "color": "#008000",
+          "children": [
+            {
+              "name": "بنیاد ایران\u200Cشناسی",
+              "description": "سازمان\u200Cدهی و هماهنگ\u200Cکردن پژوهش\u200Cهای علمی در زمینه ایران\u200Cشناسی",
+              "category": "مؤسسه دولتی",
+              "link": "https://iranology.ir",
+              "color": "#008000"
+            },
+            {
+              "name": "بنیاد شهید و امور ایثارگران",
+              "description": "رسیدگی به امور جانبازان و خانواده\u200Cهای جان\u200Cباختگان در خلال جنگ ایران و عراق",
+              "category": "مؤسسه دولتی",
+              "link": "http://www.isaar.ir",
+              "color": "#008000"
+            },
+            {
+              "name": "معاونت علمی، فناوری و اقتصاد دانش\u200Cبنیان",
+              "description": "متولی بهبود و توسعه حوزه دانش بنیان در کشور",
+              "category": "مؤسسه دولتی",
+              "link": "http://isti.ir",
+              "color": "#008000"
+            },
+            {
+              "name": "جمعیت هلال احمر جمهوری اسلامی ایران",
+              "description": "در مواقع بروز بحران\u200Cهایی نظیر سیل، زلزله و جنگ و غیره در داخل و خارج مرزها به امدادرسانی و خروج مصدومان و قربانیان این حوادث کمک می کند",
+              "category": "نهاد عمومی غیردولتی",
+              "link": "https://rcs.ir",
+              "color": ""
+            }
+          ]
+        },
+        {
+          "name": "سازمان برنامه و بودجه",
+          "description": "برنامه‌ریزی اقتصادی و بودجه‌ریزی",
+          "category": "مؤسسه دولتی",
+          "link": "https://www.mporg.ir",
+          "color": "#008000"
+        },
+        {
+          "name": "بانک مرکزی",
+          "description": "تنظیم سیاست‌های پولی کشور",
+          "category": "مؤسسه دولتی",
+          "link": "https://www.cbi.ir",
+          "color": "#008000"
+        }
+      ]
+    },
+    {
+      "name": "قوه قضائیه",
+      "description": "نظارتی و قضایی",
+      "category": "نهاد حکومتی یا حاکمیتی",
+      "link": "https://www.judiciary.ir",
+      "color": "#FF0000",
+      "children": [
+        {
+          "name": "دیوان عالی کشور",
+          "description": "بالاترین مرجع قضایی",
+          "category": "نهاد حکومتی یا حاکمیتی",
+          "link": "",
+          "color": "#FF0000"
+        },
+        {
+          "name": "دادستان کل کشور",
+          "description": "مسئول پیگیری دعاوی عمومی",
+          "category": "نهاد حکومتی یا حاکمیتی",
+          "link": "",
+          "color": "#FF0000"
+        },
+        {
+          "name": "سازمان بازرسی کل کشور",
+          "description": "نظارت بر حسن اجرای قوانین",
+          "category": "مؤسسه دولتی",
+          "link": "https://www.bazresi.ir",
+          "color": "#008000"
+        }
+      ]
+    },
+    {
+      "name": "قوه مقننه",
+      "description": "تدوین و تصویب قوانین",
+      "category": "نهاد حکومتی یا حاکمیتی",
+      "link": "https://www.majlis.ir",
+      "color": "#FF0000",
+      "children": [
+        {
+          "name": "مجلس شورای اسلامی",
+          "description": "نهاد قانون‌گذار کشور",
+          "category": "نهاد حکومتی یا حاکمیتی",
+          "link": "https://www.majlis.ir",
+          "color": "#FF0000"
+        },
+        {
+          "name": "شورای نگهبان",
+          "description": "نظارت بر مصوبات و انتخابات",
+          "category": "نهاد حکومتی یا حاکمیتی",
+          "link": "https://www.shora-gc.ir",
+          "color": "#FF0000"
+        },
+        {
+          "name": "مرکز پژوهش‌های مجلس",
+          "description": "پشتیبانی پژوهشی مجلس",
+          "category": "مؤسسه دولتی",
+          "link": "https://rc.majlis.ir",
+          "color": "#008000"
+        }
+      ]
+    },
+    {
+      "name": "بنیاد مستضعفان انقلاب اسلامی",
+      "description": "ارائهٔ خدمات فرهنگی و آموزشی، چاپ و انتشارات، تولید و توزیع برق، خدمات جهانگردی، ترابری و کشتی\u200Cرانی، خدمات بیمه، بانکداری و سرمایه\u200Cگذاری، پیمان\u200Cکاری عمومی و بازرگانی فعالیت می\u200Cکند",
+      "category": "نهاد عمومی غیردولتی",
+      "link": "https://www.bonyad.net/",
+      "color": ""
+    },
+    {
+      "name": "مجمع تشخیص مصلحت نظام",
+      "description": "حل اختلاف مجلس و شورای نگهبان",
+      "category": "نهاد حکومتی یا حاکمیتی",
+      "link": "https://maslahat.ir",
+      "color": "#FF0000"
+    },
+    {
+      "name": "شورای عالی امنیت ملی",
+      "description": "تصمیم‌گیر امنیت ملی کشور",
+      "category": "نهاد حکومتی یا حاکمیتی",
+      "link": "",
+      "color": "#FF0000"
+    }
+  ]
+}
