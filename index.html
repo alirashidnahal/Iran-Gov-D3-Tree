@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html class="no-js" lang="fa">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>درختواره ساختار دولت ایران</title>
+  <link rel="stylesheet" href="assets/css/style.css" />
+  <meta name="description" content="درختواره‌ای تعاملی از ساختار دولت جمهوری اسلامی ایران، با استفاده از D3.js. این پروژه به صورت متن‌باز طراحی شده و برای مشارکت عمومی در توسعه ساختارهای نهادی قابل گسترش است.">
+
+  <meta property="og:title" content="درختواره ساختار دولت ایران">
+  <meta property="og:type" content="">
+  <meta property="og:url" content="">
+  <meta property="og:image" content="">
+  <meta property="og:image:alt" content="">
+
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="icon" href="/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icon.png">
+
+  <link rel="manifest" href="site.webmanifest">
+  <meta name="theme-color" content="#fafafa">
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+  <h2 style="text-align: center;">درختواره ساختار دولت جمهوری اسلامی ایران</h2>
+  <input type="text" id="searchBox" placeholder="جستجو در نهادها...">
+  <svg width="1500" height="1000"></svg>
+  <div class="tooltip" id="tooltip"></div>
+  <div class="modal-overlay" id="modalOverlay"></div>
+  <div class="modal" id="modal">
+    <button class="close-btn" onclick="closeModal()">×</button>
+    <h3 id="modalTitle"></h3>
+    <img id="modalImage" src="" alt="" style="display:none;">
+    <p id="modalDescription"></p>
+    <p><a href="#" id="modalLink" target="_blank" style="display:none;">اطلاعات بیشتر</a></p>
+  </div>
+  <script src="assets/js/app.js"></script>
+</body>
+</html>
